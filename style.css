@@ -20,14 +20,18 @@ body {
   display: flex;
   width: 80%;
   height: 60%;
+
+  border-radius: 15px;
+  overflow: hidden;
 }
 .txtCanta {
   width: 50%;
   height: 100%;
-  background-color: antiquewhite;
+  background-color: hsl(244, 38%, 16%);
 }
 .imgConta {
   width: 50%;
   height: 100%;
-  background-color: blueviolet;
+  background-image: url(images/image-header-desktop.jpg);
+  background-size: contain;
 }
