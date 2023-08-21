@@ -1,0 +1,33 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+body {
+  margin: 0;
+  background-color: hsl(233, 47%, 7%);
+}
+.container {
+  width: 100vw;
+  height: 98vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  display: flex;
+  width: 80%;
+  height: 60%;
+}
+.txtCanta {
+  width: 50%;
+  height: 100%;
+  background-color: antiquewhite;
+}
+.imgConta {
+  width: 50%;
+  height: 100%;
+  background-color: blueviolet;
+}
